@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Managing physical assets using spreadsheets or paper records often leads to duplicate allocations, scheduling conflicts, poor maintenance tracking, and limited visibility.
 
@@ -23,9 +23,9 @@ The platform is designed with modular architecture, secure authentication, and r
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🔐 Authentication & Authorization
+##  Authentication & Authorization
 
 * Secure User Registration
 * Email & Password Login
@@ -37,7 +37,7 @@ The platform is designed with modular architecture, secure authentication, and r
 
 ---
 
-## 🏢 Organization Setup
+##  Organization Setup
 
 * Department Management
 * Asset Category Management
@@ -47,7 +47,7 @@ The platform is designed with modular architecture, secure authentication, and r
 
 ---
 
-## 📦 Asset Management
+##  Asset Management
 
 * Asset Registration
 * Auto-generated Asset Tags
@@ -82,7 +82,7 @@ Available
 
 ---
 
-## 🔄 Asset Allocation & Transfer
+##  Asset Allocation & Transfer
 
 * Allocate Assets
 * Return Assets
@@ -94,7 +94,7 @@ Available
 
 ---
 
-## 📅 Resource Booking
+##  Resource Booking
 
 * Shared Resource Booking
 * Time Slot Validation
@@ -105,7 +105,7 @@ Available
 
 ---
 
-## 🛠 Maintenance Management
+##  Maintenance Management
 
 Workflow:
 
@@ -132,7 +132,7 @@ Features:
 
 ---
 
-## ✅ Asset Audit
+##  Asset Audit
 
 * Audit Cycle Creation
 * Auditor Assignment
@@ -144,7 +144,7 @@ Features:
 
 ---
 
-## 📊 Dashboard & Reports
+##  Dashboard & Reports
 
 Dashboard includes:
 
@@ -165,7 +165,7 @@ Reports:
 
 ---
 
-## 🔔 Notifications & Activity Logs
+##  Notifications & Activity Logs
 
 * Asset Allocation Notifications
 * Booking Notifications
@@ -176,9 +176,9 @@ Reports:
 
 ---
 
-# 👥 User Roles
+#  User Roles
 
-## 👨‍💼 Admin
+##  Admin
 
 * Manage Departments
 * Manage Asset Categories
@@ -189,7 +189,7 @@ Reports:
 
 ---
 
-## 📦 Asset Manager
+##  Asset Manager
 
 * Register Assets
 * Allocate Assets
@@ -199,7 +199,7 @@ Reports:
 
 ---
 
-## 🏢 Department Head
+##  Department Head
 
 * View Department Assets
 * Approve Department Transfers
@@ -207,7 +207,7 @@ Reports:
 
 ---
 
-## 👤 Employee
+##  Employee
 
 * View Assigned Assets
 * Book Shared Resources
@@ -217,7 +217,7 @@ Reports:
 
 ---
 
-# 🔄 System Workflow
+#  System Workflow
 
 ```text
 Employee Signup/Login
@@ -250,7 +250,7 @@ Asset Allocation
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Frontend
 
@@ -274,7 +274,7 @@ Asset Allocation
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 assetflow/
@@ -312,7 +312,7 @@ assetflow/
 
 ---
 
-# 🔌 API Modules
+#  API Modules
 
 ### Authentication
 
@@ -358,7 +358,7 @@ assetflow/
 
 ---
 
-# ⚙ Business Rules
+#  Business Rules
 
 * Employee signup creates only **Employee** accounts.
 * Only Admin can assign or update user roles.
@@ -372,7 +372,7 @@ assetflow/
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 Clone the repository:
 
@@ -414,7 +414,7 @@ http://localhost:5173
 
 ---
 
-# 🌐 Deployment
+#  Deployment
 
 ### Backend
 
@@ -434,7 +434,7 @@ http://localhost:5173
 
 ---
 
-# 🧪 Testing Checklist
+#  Testing Checklist
 
 * User Authentication
 * Role-Based Access
@@ -450,18 +450,18 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 > Screenshots and demo GIFs will be added after project completion.
 
 ---
 
-# 👥 Team
+#  Team
 
 Developed as part of the **Odoo Hackathon 2026**.
 
 ---
 
-# 📄 License
+#  License
 
 This project is developed for educational and hackathon purposes.
